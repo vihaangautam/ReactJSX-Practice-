@@ -1,1 +1,1 @@
-Practcie Repo for react.jsx
+Practice Repo for react.jsx
