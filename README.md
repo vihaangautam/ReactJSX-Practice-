@@ -1,1 +1,1 @@
-Practice Repo for react.jsx
+Practice projects
